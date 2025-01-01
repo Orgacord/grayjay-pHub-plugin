@@ -14,7 +14,7 @@
 	
 	"scriptSignature": "ZKE9cPROsWTUln2syXyjb0HjeEi2Jvbo7jNHbtCqjStkEySHOHQY8z+i0Hvk4CdsSKzqT+l1MJXoCCNaNt4Y3Ew2TG05h4IgriTOr+Hb2Jw4tocDWJQRobB/ERz6fh6/wyTHkSvXuhYzHoDmNHsfbaiwbfTUHi7t2IpaKHMtcmqaU0H506kIB2dATUl/v7O2B2WVXednUQaLntMN+Hv7XirCTTqdkeIZY1E4ln8qLzJg4ziXbKgNnNYz9N2dTrO1LoMPFYlp2Tj/dkWrAS+RJ2ERDpXhMR+6yn4Prg5PU+8OgB0QvNxixeQT3rHb27wlXAlMDFhGpNRoQLkG/Ja09Q==",
 	"scriptPublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzrHFGNXNWMnfrIUkMMP7WlSN4geLJiFm+zvgRkplA4EFJCikhNpQywXjtshcPX0w39EZ22HCFvnem4xXf/yHhSO1zpU72qEDeSn1e2YMFm6kr5pEkomr9ezd/fcdp8kASmBvF1apnQegWqRANi0A4EO3ZGtBqXEyoo1x0Um0+HknlMhpZxs2gH2i60Zgvztl04gqEFiDlJ7XS4huXbqhHHtdTdkWI10/c7bb8DGGw0KsL8dJfhlJhVF1GbfcF6gwxN/dQXT36gMaBTcCgdBJi3Bx6J+EqE3XTpuDhfLsFJGw27iQgvXPb9ecvgmDIJtF9OS0y5zeE88E/lG1F9d81wIDAQAB",
-	"packages": ["Http", "DOMParser"],
+	"packages": ["Http"],
 	
 	"allowEval": false,
 	"allowUrls": [
