@@ -1,26 +1,22 @@
 {
-	"name": "Pornhub Integration",
-	"description": "Adds support for Pornhub media platform.",
-	"author": "Orgacord",
-	"authorUrl": "https://orgacord.com",
-	
-	"sourceUrl": "https://github.com/Orgacord/grayjay-pHub-plugin/grayjay-pHub-config.json",
-	"repositoryUrl": "https://github.com/Orgacord/grayjay-pHub-plugin",
-	"scriptUrl": "./main.js",
-	"version": 2,
-	
-	"iconUrl": "./phub-icon.png",
-	"id": "a57b0d10-01bc-4a4d-8db9-0595efb90f67",
-	
-	"scriptSignature": "O0PbKz03Ux0xoEN2D0Y16DY3HhYe8/ro/BP0A4BcOFTmgHDrspDMoe4oDZJ/DJxiKsbT/w6PILpj3gthZ0XyXWGArfn+VoRmj3piPr4AYlDgKIJhi3885+b0pdV7pURdw3DE0skO3oTN0MUo1180AtZkUQK3+Q9oGgupbdBNlkiIVPj7psbJa34+9aS7RCjYcT6jWLYJDSIS352x2mjIse9mzCKa4UXkrkJcutl0BYbq8CxbRW6O6TI//miIVVFAMB1/Ir+fgBBpUARw/wc6Zgid6WBMGYW9E8534VNoKYz/stiWSW4ELwKp8y/gCU6E8vQ4Uhaxf+8dKIU3XDfAdyZZwF0RWV3yBMOA4gclZ31f3efealkjdYCLYE3PFOiEkVBiaQHr+5Yz0JwmCP7WXMdxdToBukbJ/ddpwwFDlLuQ7Wu5e/lMq2eseWz0kK6xP/CiUmSbR50mtDfZDYtpU/jkYj+EvDxBEH7Q2j/nbr7Eh6ajVNnwaxsIF+OhVJj53gTxvN7oH9ATVHT6GfKPx6k5F61eI0iHlzG2XTuWn+BFDyQ8XMKbxPuH+C3G5qqTlFq1fPNfJNzIz0nTMGO1NLeGlxEAReJ0mjTvvgsSqlL5ui2RLprDL7eCVFVF3JZDR77xkEaiqFu3o4LqNgViQKxlKr7XttIW+bocMEtvYck=",
-  	"scriptPublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAq7zXIrEPSqQwp37RJuVVxAZFdhgWxUiKkn7/xd9a0AIvwPfQuODQlcJyObo4YM2eK5rS8fR5US8UOzgPrQkSob3IibHTULIIENNH7L6iG9sgWRhpzueLPEv1iX037laQPiuKfaTpFR75YmqBEsTe7wNYKrKTtiRJeOoq6HqxRKdLLbkTAIw3Z2GNOJ3xvaT2InB97uK1tkcAGlfCc515pZEc6IgpP9OkEUUMUF7tb2OnTDM5w9HXBLCzqu4Q5Ui+ntVkz8FLlUtTLkigai1QfjbkIa0WC07dEyNjtQvWuFjpRXlI56y9Wm5ZYp2EbYec7Ip4Rxq01ir5EkfvR2VyPwIDAQAB",
- 	 "packages": [
-   		"Http",
-  		"DOMParser"
- 	],
-	
-	"allowEval": false,
-	"allowUrls": [
-		"everywhere"
-	]
+  "name": "Pornhub Integration",
+  "description": "Adds support for Pornhub media platform.",
+  "author": "Orgacord",
+  "authorUrl": "https://orgacord.com",
+  "sourceUrl": "https://github.com/Orgacord/grayjay-pHub-plugin/grayjay-pHub-config.json",
+  "repositoryUrl": "https://github.com/Orgacord/grayjay-pHub-plugin",
+  "scriptUrl": "./main.js",
+  "version": 2,
+  "iconUrl": "./phub-icon.png",
+  "id": "a57b0d10-01bc-4a4d-8db9-0595efb90f67",
+  "scriptSignature": "fos0MVJUhQBpAQNTYodRmafNwZD243Vkxd2tBRITOSLQsAbZaNqHn4d3y4CigYtDuE2fdIBIEqT5si0Q7oegXbff+kneMCGaeTQclVP5Ge0SbNk+Up0/J9mM+z9c8bI44zSWlggTSUNKLcWy+C5dt+0QPcjdUgpx85ZuqsbFYWTrUs7OdAxQ1r/jNAF0GV2dLa24RS5TASWSA8SqZ7UfCQ9zWADwXMKSJAJ1BWHBF5NYGm0IQa3AImx9CTvN7Ac1+Zu8nZESDCSRtTw4hXZSHrtZiJjklz9T9WvenP6STUavRMclOTLbF56T+9V7fENSmTS22ru/vude3UbS1oiVWw==",
+  "scriptPublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAq7zXIrEPSqQwp37RJuVVxAZFdhgWxUiKkn7/xd9a0AIvwPfQuODQlcJyObo4YM2eK5rS8fR5US8UOzgPrQkSob3IibHTULIIENNH7L6iG9sgWRhpzueLPEv1iX037laQPiuKfaTpFR75YmqBEsTe7wNYKrKTtiRJeOoq6HqxRKdLLbkTAIw3Z2GNOJ3xvaT2InB97uK1tkcAGlfCc515pZEc6IgpP9OkEUUMUF7tb2OnTDM5w9HXBLCzqu4Q5Ui+ntVkz8FLlUtTLkigai1QfjbkIa0WC07dEyNjtQvWuFjpRXlI56y9Wm5ZYp2EbYec7Ip4Rxq01ir5EkfvR2VyPwIDAQAB",
+  "packages": [
+    "Http",
+    "DOMParser"
+  ],
+  "allowEval": false,
+  "allowUrls": [
+	"everywhere"
+  ]
 }
