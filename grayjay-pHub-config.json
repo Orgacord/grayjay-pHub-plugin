@@ -7,7 +7,7 @@
 	"sourceUrl": "https://github.com/Orgacord/grayjay-pHub-plugin/grayjay-pHub-config.json",
 	"repositoryUrl": "https://github.com/Orgacord/grayjay-pHub-plugin",
 	"scriptUrl": "./main.js",
-	"version": 3,
+	"version": 2,
 	
 	"iconUrl": "./phub-icon.png",
 	"id": "1c458908-112e-466a-9535-65ff71375368",
