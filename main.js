@@ -1,4 +1,3 @@
-
 function initializePlugin(api) {
     // Register the platform
     api.registerPlatform({
