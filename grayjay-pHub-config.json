@@ -21,7 +21,6 @@
 	
 	"allowEval": false,
 	"allowUrls": [
-		"https://www.pornhub.com/webmasters/search",
-		"https://www.pornhub.com/webmasters/video_by_id"
+		"everywhere"
 	]
 }
