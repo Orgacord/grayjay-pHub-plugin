@@ -1,14 +1,4 @@
-const pluginMetadata = {
-    id: "pornhub",
-    name: "Pornhub Integration",
-    description: "Adds support for Pornhub media platform.",
-    version: "1.0.0",
-    author: "Orgacord",
-};
 
-/**
- * Entry point for the plugin
- */
 function initializePlugin(api) {
     // Register the platform
     api.registerPlatform({
@@ -69,11 +59,3 @@ function initializePlugin(api) {
         },
     });
 }
-
-/**
- * Plugin Export
- */
-export default {
-    metadata: pluginMetadata,
-    initialize: initializePlugin,
-};
