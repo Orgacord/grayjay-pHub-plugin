@@ -8,7 +8,7 @@
   "scriptUrl": "./main.js",
   "version": 2,
   "iconUrl": "./phub-icon.png",
-  "id": "a57b0d10-01bc-4a4d-8db9-0595efb90f67",
+  "id": "82b8fefc-24aa-11ee-be56-0242ac120002",
   "scriptSignature": "fos0MVJUhQBpAQNTYodRmafNwZD243Vkxd2tBRITOSLQsAbZaNqHn4d3y4CigYtDuE2fdIBIEqT5si0Q7oegXbff+kneMCGaeTQclVP5Ge0SbNk+Up0/J9mM+z9c8bI44zSWlggTSUNKLcWy+C5dt+0QPcjdUgpx85ZuqsbFYWTrUs7OdAxQ1r/jNAF0GV2dLa24RS5TASWSA8SqZ7UfCQ9zWADwXMKSJAJ1BWHBF5NYGm0IQa3AImx9CTvN7Ac1+Zu8nZESDCSRtTw4hXZSHrtZiJjklz9T9WvenP6STUavRMclOTLbF56T+9V7fENSmTS22ru/vude3UbS1oiVWw==",
   "scriptPublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAq7zXIrEPSqQwp37RJuVVxAZFdhgWxUiKkn7/xd9a0AIvwPfQuODQlcJyObo4YM2eK5rS8fR5US8UOzgPrQkSob3IibHTULIIENNH7L6iG9sgWRhpzueLPEv1iX037laQPiuKfaTpFR75YmqBEsTe7wNYKrKTtiRJeOoq6HqxRKdLLbkTAIw3Z2GNOJ3xvaT2InB97uK1tkcAGlfCc515pZEc6IgpP9OkEUUMUF7tb2OnTDM5w9HXBLCzqu4Q5Ui+ntVkz8FLlUtTLkigai1QfjbkIa0WC07dEyNjtQvWuFjpRXlI56y9Wm5ZYp2EbYec7Ip4Rxq01ir5EkfvR2VyPwIDAQAB",
   "packages": [
@@ -17,6 +17,6 @@
   ],
   "allowEval": false,
   "allowUrls": [
-	"everywhere"
+    "everywhere"
   ]
 }
